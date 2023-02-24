@@ -1,0 +1,3 @@
+C:\Users\Mohamed Absawy\Desktop\Project_sample\Debug\ASM_Project.exe
+D:\School\DY2 Comp\Digital\Project\Debug\ASM_Project.exe
+D:\School\DY2 Comp\Digital\proj\Project\Debug\ASM_Project.exe
